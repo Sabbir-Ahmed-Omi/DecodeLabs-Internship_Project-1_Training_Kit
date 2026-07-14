@@ -1,1 +1,1 @@
-# DecodeLabs-Internship_Project-1-_Training_Kit
+# DecodeLabs-Internship_Project-1_Training_Kit
